@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+body{
+	
+	background: aqua;
+}
+.add{
+	text-align:center;
+	
+}
+.add1{
+	text-align:center;
+	color: red;
+	background-image: linear-gradient(orange,white);
+}
+.up{
+	background: orange;
+}
+.dlt{
+	background: red;
+}
+.btna{
+	background: green;
+}
+
+
+table{
+	border:2px solid black;
+	margin:auto;
+	text-align: center;
+	border-spacing:10px;
+	border-radius:10px;
+	background: rgba(200,10, 50, .5);
+	color: black;
+}
+button{
+	margin:auto;
+	height:30px;
+	border-radius:5px;
+	
+}
+
+
+
+
+
+

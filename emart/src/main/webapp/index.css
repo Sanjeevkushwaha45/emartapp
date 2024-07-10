@@ -1,0 +1,24 @@
+@charset "UTF-8";
+*{
+	margin:0px;
+	padding: 0px;
+	text-align: center;
+}
+body{
+	background-image: linear-gradient(to left,orange 50%,blue 50%);
+}
+.btn1{
+	height: 50px;
+	width: 100px;
+	margin-top: 10%;
+	
+}
+h1{
+	height: 50px;
+	background-image:linear-gradient(orange,white);
+	text-align: center;
+	padding-top:1%;
+}
+
+
+

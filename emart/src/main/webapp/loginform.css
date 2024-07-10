@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+*{
+	margin:0px;
+	padding:0px;
+	text-align: center;
+}
+body{
+	background-image: radial-gradient(orange,white,cyan);
+	background-size: cover;
+}
+.main{
+	margin:10% auto;
+	height:400px;
+	width:350px;
+	background-color: #fff0e1;
+	border-radius: 20px;
+}
+form{
+	height:80%;
+	width:80%;
+	margin: auto;
+	background: #bdffff;
+	border-radius: 10px;
+}
+input{
+	
+	width:80%;
+	height: 10%;
+    border-radius: 10px;
+	margin: 10% 10%;
+	 
+}
+button{
+	margin-left: 10%;
+	width:40%;
+	height: 10%;
+	border-radius: 10px;
+}
+

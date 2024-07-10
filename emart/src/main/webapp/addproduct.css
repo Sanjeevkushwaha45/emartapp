@@ -1,0 +1,35 @@
+@charset "UTF-8";
+*{
+	text-align: center;
+	margin:0px;
+	padding:0px;
+	
+}
+body{
+	background: #fde0aa;
+	 
+}
+.main{
+	height: 500px;
+	width: 50%;
+	background: aqua;
+	margin:7% auto;
+	border-radius:5%;
+}
+form{
+	margin: 7%;
+	font-size: 20px;
+}
+h1{
+	color: #0141fe;
+}
+input, button{
+	height:30px;
+	width: 90%;
+	margin:1.5% 5%;
+	border-radius:10px;
+}
+button{
+	background:#15ff15;
+	width:20%;
+}

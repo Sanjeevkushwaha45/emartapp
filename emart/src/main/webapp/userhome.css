@@ -1,0 +1,20 @@
+@charset "UTF-8";
+*{
+	margin: 0px;
+	padding: 0px;
+	text-align:center;
+}
+body{
+	background-image: radial-gradient(orange,white,cyan);
+	background-size: cover;
+}
+table{
+	margin:5% auto;
+	border: 2px solid black;
+	background: #fffce3;
+ 
+}
+th,td{
+	padding:20px;
+}
+
